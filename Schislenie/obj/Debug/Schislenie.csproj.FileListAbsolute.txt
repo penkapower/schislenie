@@ -1,0 +1,54 @@
+C:\TEMP\Schislenie\Schislenie\bin\Debug\Schislenie.exe
+C:\TEMP\Schislenie\Schislenie\bin\Debug\Schislenie.pdb
+C:\TEMP\Schislenie\Schislenie\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\Schislenie\Schislenie\obj\Debug\Schislenie.Form1.resources
+C:\TEMP\Schislenie\Schislenie\obj\Debug\Schislenie.Properties.Resources.resources
+C:\TEMP\Schislenie\Schislenie\obj\Debug\Schislenie.csproj.GenerateResource.Cache
+C:\TEMP\Schislenie\Schislenie\obj\Debug\Schislenie.exe
+C:\TEMP\Schislenie\Schislenie\obj\Debug\Schislenie.pdb
+D:\Алексей\Visual\Schislenie\Schislenie\obj\Debug\Schislenie.exe
+D:\Алексей\Visual\Schislenie\Schislenie\obj\Debug\Schislenie.pdb
+D:\Алексей\Visual\Schislenie\Schislenie\obj\Debug\ResolveAssemblyReference.cache
+D:\Алексей\Visual\Schislenie\Schislenie\obj\Debug\Schislenie.Form1.resources
+D:\Алексей\Visual\Schislenie\Schislenie\obj\Debug\Schislenie.Properties.Resources.resources
+D:\Алексей\Visual\Schislenie\Schislenie\obj\Debug\Schislenie.csproj.GenerateResource.Cache
+D:\Алексей\Visual\Schislenie\Schislenie\bin\Debug\Schislenie.exe
+D:\Алексей\Visual\Schislenie\Schislenie\bin\Debug\Schislenie.pdb
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\obj\Debug\Schislenie.exe
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\obj\Debug\Schislenie.pdb
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\bin\Debug\Schislenie.exe
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\bin\Debug\Schislenie.pdb
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\obj\Debug\Schislenie.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\obj\Debug\Schislenie.Form1.resources
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\obj\Debug\Schislenie.Properties.Resources.resources
+C:\Users\user\Desktop\КПиЯП\1\Schislenie\Schislenie\obj\Debug\Schislenie.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\bin\Debug\Переводчик.exe
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\bin\Debug\Переводчик.pdb
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\obj\Debug\Schislenie.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\obj\Debug\Schislenie.Form1.resources
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\obj\Debug\Переводчик.Properties.Resources.resources
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\obj\Debug\Schislenie.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\obj\Debug\Переводчик.exe
+C:\Users\Roman\Desktop\курсовая кпяп\Schislenie\Schislenie\obj\Debug\Переводчик.pdb
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\obj\Debug\Переводчик.exe
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\obj\Debug\Переводчик.pdb
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\bin\Debug\Переводчик.exe
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\bin\Debug\Переводчик.pdb
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\obj\Debug\Schislenie.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\obj\Debug\Schislenie.Form1.resources
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\obj\Debug\Переводчик.Properties.Resources.resources
+C:\Users\Roman\Desktop\курсовая кпяп\1\Schislenie\obj\Debug\Schislenie.csproj.GenerateResource.Cache
+D:\Roman\Учеба\ПТУ\курсовая кпяп\1\Schislenie\obj\Debug\Переводчик.exe
+D:\Roman\Учеба\ПТУ\курсовая кпяп\1\Schislenie\obj\Debug\Переводчик.pdb
+D:\Roman\Учеба\ПТУ\курсовая кпяп\1\Schislenie\obj\Debug\Schislenie.csprojResolveAssemblyReference.cache
+D:\Roman\Учеба\ПТУ\курсовая кпяп\1\Schislenie\obj\Debug\Schislenie.Form1.resources
+D:\Roman\Учеба\ПТУ\курсовая кпяп\1\Schislenie\obj\Debug\Переводчик.Properties.Resources.resources
+D:\Roman\Учеба\ПТУ\курсовая кпяп\1\Schislenie\obj\Debug\Schislenie.csproj.GenerateResource.Cache
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\obj\Debug\Переводчик.exe
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\obj\Debug\Schislenie.csprojResolveAssemblyReference.cache
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\obj\Debug\Schislenie.Form1.resources
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\obj\Debug\Переводчик.Properties.Resources.resources
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\obj\Debug\Schislenie.csproj.GenerateResource.Cache
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\bin\Debug\Переводчик.exe
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\bin\Debug\Переводчик.pdb
+D:\Roman\Учеба\ПТУ\курсовая кпяп\si\1\Schislenie\obj\Debug\Переводчик.pdb
